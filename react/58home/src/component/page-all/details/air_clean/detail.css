@@ -1,0 +1,22 @@
+.banner{
+    width: 10rem;
+    height: 8.3rem;
+    background-color: #fff;
+}
+.detail{
+    width: 10rem;
+    height: 100vh;
+}
+.swiper-pagination.swiper-pagination-custom{
+    position: absolute;
+    top: 7rem;
+    right: 0;
+    padding-left: 4.5rem;
+}
+.detail_back{
+    position: absolute;
+    right: 0;
+    top: 0px;
+    left: 0px;
+    z-index: 99;
+}

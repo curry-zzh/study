@@ -1,0 +1,17 @@
+input{  
+	background:none;  
+	outline:none;  
+	border:none;
+}
+.App{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  min-height: 100%;
+  overflow: hidden;
+}
+.page{
+  position: relative;
+  max-height: 20.1rem;
+  overflow: scroll;
+}
